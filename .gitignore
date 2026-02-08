@@ -212,3 +212,7 @@ models/
 *.pt
 *.pth
 *.h5
+
+# docs
+docs/HAVEDO.md
+docs/GitCommitCriterion.md
