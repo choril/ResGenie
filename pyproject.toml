@@ -1,0 +1,12 @@
+[build-system]
+requires = ["setuptools>=61.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "ResGenie"
+version = "0.1.0"
+description = "多智能体协作的学术调研助手系统"
+requires-python = ">=3.10"
+
+[tool.uv]
+# uv 特定配置
