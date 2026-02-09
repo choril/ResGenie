@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/choril/resgenie/main/docs/logo.svg" alt="ResGenie Logo" width="120" height="120">
+  <img src="docs/logo.svg" alt="ResGenie Logo" width="120" height="120">
 </p>
 
 # 研灵助手 (ResGenie) - 多智能体学术研究助手
