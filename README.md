@@ -4,15 +4,35 @@
 
 # 研灵助手 (ResGenie) - 多智能体学术研究助手
 <div align="center">
+<!-- License -->
+<a href="https://opensource.org/licenses/MIT" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License: MIT">
+</a>
 
-[![PyPI Version](https://img.shields.io/pypi/v/resgenie?color=blue&logo=pypi&logoColor=white)](https://pypi.org/project/resgenie/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![GitHub Stars](https://img.shields.io/github/stars/choril/resgenie?style=social)](https://github.com/choril/resgenie/stargazers)
-[![GitHub Forks](https://img.shields.io/github/forks/choril/resgenie?style=social)](https://github.com/choril/resgenie/network/members)
-[![GitHub Last Commit](https://img.shields.io/github/last-commit/choril/resgenie)](https://github.com/choril/resgenie/commits/main)
-[![GitHub Repo Size](https://img.shields.io/github/repo-size/choril/resgenie)](https://github.com/choril/resgenie)
-[![Technical Report](https://img.shields.io/badge/Report-%E6%8A%A5%E5%91%8A-orange%3Flogo%3Dreadthedocs?logo=readthedocs&color=orange)](https://choril.github.io/ResGenie/)
+<!-- GitHub Stars -->
+<a href="https://github.com/choril/resgenie/stargazers" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/github/stars/choril/resgenie?style=social" alt="GitHub Stars">
+</a>
 
+<!-- GitHub Forks -->
+<a href="https://github.com/choril/resgenie/network/members" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/github/forks/choril/resgenie?style=social" alt="GitHub Forks">
+</a>
+
+<!-- GitHub Last Commit -->
+<a href="https://github.com/choril/resgenie/commits/main" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/github/last-commit/choril/resgenie" alt="GitHub Last Commit">
+</a>
+
+<!-- GitHub Repo Size -->
+<a href="https://github.com/choril/resgenie" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/github/repo-size/choril/resgenie" alt="GitHub Repo Size">
+</a>
+
+<!-- Technical Report -->
+<a href="https://choril.github.io/ResGenie/" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Report-%E6%8A%A5%E5%91%8A-orange%3Flogo%3Dreadthedocs?logo=readthedocs&color=orange" alt="Technical Report">
+</a>
 
 **下一代智能学术研究助手 · 让科研效率提升10倍**
 
