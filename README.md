@@ -1,64 +1,26 @@
-<style>
-    a {
-        text-decoration: none;
-    }
-</style>
 <p align="center">
   <img src="docs/logo.svg" alt="ResGenie Logo" width="120" height="120">
 </p>
 
+# 研灵助手 (ResGenie) - 多智能体学术研究助手
 
 <div align="center">
-  <h1>研灵助手 (ResGenie) - 多智能体学术研究助手</h1>
 
-  <!-- 徽章行 - 使用 CSS margin 代替 &nbsp; -->
-  <p>
-    <a href="https://opensource.org/licenses/MIT" target="_blank" rel="noopener noreferrer" style="margin-right: 10px;">
-      <img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License: MIT">
-    </a>
-    <a href="https://github.com/choril/resgenie/commits/main" target="_blank" rel="noopener noreferrer" style="margin-right: 10px;">
-      <img src="https://img.shields.io/github/last-commit/choril/resgenie" alt="GitHub Last Commit">
-    </a>
-    <a href="https://github.com/choril/resgenie" target="_blank" rel="noopener noreferrer" style="margin-right: 10px;">
-      <img src="https://img.shields.io/github/repo-size/choril/resgenie" alt="GitHub Repo Size">
-    </a>
-    <a href="https://choril.github.io/ResGenie/" target="_blank" rel="noopener noreferrer" style="margin-right: 10px;">
-      <img src="https://img.shields.io/badge/Report-%E6%8A%A5%E5%91%8A-orange%3Flogo%3Dreadthedocs?logo=readthedocs&color=orange" alt="Technical Report">
-    </a>
-    <a href="https://github.com/choril/resgenie/stargazers" target="_blank" rel="noopener noreferrer" style="margin-right: 10px;">
-      <img src="https://img.shields.io/github/stars/choril/resgenie?style=social" alt="GitHub Stars">
-    </a>
-    <a href="https://github.com/choril/resgenie/network/members" target="_blank" rel="noopener noreferrer">
-      <img src="https://img.shields.io/github/forks/choril/resgenie?style=social" alt="GitHub Forks">
-    </a>
-  </p>
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![GitHub Last Commit](https://img.shields.io/github/last-commit/choril/resgenie)](https://github.com/choril/resgenie/commits/main)
+[![GitHub Repo Size](https://img.shields.io/github/repo-size/choril/resgenie)](https://github.com/choril/resgenie)
+[![Technical Report](https://img.shields.io/badge/Report-%E6%8A%A5%E5%91%8A-orange%3Flogo%3Dreadthedocs?logo=readthedocs&color=orange)](https://choril.github.io/ResGenie/)
+[![GitHub Stars](https://img.shields.io/github/stars/choril/resgenie?style=social)](https://github.com/choril/resgenie/stargazers)
+[![GitHub Forks](https://img.shields.io/github/forks/choril/resgenie?style=social)](https://github.com/choril/resgenie/network/members)
 
-  <!-- 项目标语 -->
-  <h2>下一代智能学术研究助手 · 让科研效率提升10倍</h2>
 
-  <!-- 导航菜单 -->
-  <p>
-    <strong>
-      <a href="#section-quickstart">🚀 快速开始</a> |
-      <a href="#section-features">✨ 功能特性</a> |
-      <a href="#section-architecture">🏗️ 架构设计</a> |
-      <a href="#section-installation">📦 安装部署</a> |
-      <a href="#section-contributing">🤝 贡献指南</a>
-    </strong>
-  </p>
+### 下一代智能学术研究助手 · 让科研效率提升10倍
 
-  <!-- 分隔线 -->
-  <hr style="width: 80%; margin: 20px auto; border: none; border-top: 1px solid #e1e4e8;">
+[🚀 快速开始](#section-quickstart) | [✨ 功能特性](#section-features) | [🏗️ 架构设计](#section-architecture) | [📦 安装部署](#section-installation)  | [🤝 贡献指南](#section-contributing)
 
-  <!-- 架构图 -->
-  <div style="margin: 30px 0;">
-    <img src="https://via.placeholder.com/800x400.png/3B82F6/FFFFFF?text=ResGenie+Architecture+Diagram" 
-         alt="ResGenie架构图" 
-         style="max-width: 90%; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
-    <p style="margin-top: 10px; color: #6c757d; font-size: 0.9em;">
-      <em>项目架构示意图</em>
-    </p>
-  </div>
+![ResGenie架构图](https://via.placeholder.com/800x400.png/3B82F6/FFFFFF?text=ResGenie+Architecture+Diagram)
+*项目架构示意图*
+
 </div>
 
 ---
