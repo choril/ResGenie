@@ -1,31 +1,33 @@
+<style>
+    a {
+        text-decoration: none;
+    }
+</style>
 <p align="center">
   <img src="docs/logo.svg" alt="ResGenie Logo" width="120" height="120">
 </p>
 
-# 研灵助手 (ResGenie) - 多智能体学术研究助手
+
 <div align="center">
-  <!-- 徽章行 - 居中显示 -->
+  <h1>研灵助手 (ResGenie) - 多智能体学术研究助手</h1>
+
+  <!-- 徽章行 - 使用 CSS margin 代替 &nbsp; -->
   <p>
-    <a href="https://opensource.org/licenses/MIT" target="_blank" rel="noopener noreferrer">
+    <a href="https://opensource.org/licenses/MIT" target="_blank" rel="noopener noreferrer" style="margin-right: 10px;">
       <img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License: MIT">
     </a>
-    &nbsp;
-    <a href="https://github.com/choril/resgenie/commits/main" target="_blank" rel="noopener noreferrer">
+    <a href="https://github.com/choril/resgenie/commits/main" target="_blank" rel="noopener noreferrer" style="margin-right: 10px;">
       <img src="https://img.shields.io/github/last-commit/choril/resgenie" alt="GitHub Last Commit">
     </a>
-    &nbsp;
-    <a href="https://github.com/choril/resgenie" target="_blank" rel="noopener noreferrer">
+    <a href="https://github.com/choril/resgenie" target="_blank" rel="noopener noreferrer" style="margin-right: 10px;">
       <img src="https://img.shields.io/github/repo-size/choril/resgenie" alt="GitHub Repo Size">
     </a>
-    &nbsp;
-    <a href="https://choril.github.io/ResGenie/" target="_blank" rel="noopener noreferrer">
+    <a href="https://choril.github.io/ResGenie/" target="_blank" rel="noopener noreferrer" style="margin-right: 10px;">
       <img src="https://img.shields.io/badge/Report-%E6%8A%A5%E5%91%8A-orange%3Flogo%3Dreadthedocs?logo=readthedocs&color=orange" alt="Technical Report">
     </a>
-    &nbsp;
-    <a href="https://github.com/choril/resgenie/stargazers" target="_blank" rel="noopener noreferrer">
+    <a href="https://github.com/choril/resgenie/stargazers" target="_blank" rel="noopener noreferrer" style="margin-right: 10px;">
       <img src="https://img.shields.io/github/stars/choril/resgenie?style=social" alt="GitHub Stars">
     </a>
-    &nbsp;
     <a href="https://github.com/choril/resgenie/network/members" target="_blank" rel="noopener noreferrer">
       <img src="https://img.shields.io/github/forks/choril/resgenie?style=social" alt="GitHub Forks">
     </a>
@@ -37,10 +39,10 @@
   <!-- 导航菜单 -->
   <p>
     <strong>
-      <a href="#section-quickstart">🚀 快速开始</a> &nbsp;|&nbsp;
-      <a href="#section-features">✨ 功能特性</a> &nbsp;|&nbsp;
-      <a href="#section-architecture">🏗️ 架构设计</a> &nbsp;|&nbsp;
-      <a href="#section-installation">📦 安装部署</a> &nbsp;|&nbsp;
+      <a href="#section-quickstart">🚀 快速开始</a> |
+      <a href="#section-features">✨ 功能特性</a> |
+      <a href="#section-architecture">🏗️ 架构设计</a> |
+      <a href="#section-installation">📦 安装部署</a> |
       <a href="#section-contributing">🤝 贡献指南</a>
     </strong>
   </p>
