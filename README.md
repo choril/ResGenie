@@ -2,10 +2,9 @@
   <img src="docs/logo.svg" alt="ResGenie Logo" width="120" height="120">
 </p>
 
-# 研灵助手 (ResGenie) - 多智能体学术研究助手
-
 <div align="center">
 
+# 研灵助手 (ResGenie) - 多智能体学术研究助手
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![GitHub Last Commit](https://img.shields.io/github/last-commit/choril/resgenie)](https://github.com/choril/resgenie/commits/main)
 [![GitHub Repo Size](https://img.shields.io/github/repo-size/choril/resgenie)](https://github.com/choril/resgenie)
