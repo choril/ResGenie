@@ -1,12 +1,13 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/choril/resgenie/main/docs/logo.svg" alt="ResGenie Logo" width="120" height="120">
+</p>
 # 🔬 研灵助手 (ResGenie) - 多智能体学术研究助手系统
-
 <div align="center">
 
 [![PyPI Version](https://img.shields.io/pypi/v/resgenie?color=blue&logo=pypi&logoColor=white)](https://pypi.org/project/resgenie/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![GitHub Stars](https://img.shields.io/github/stars/choril/resgenie?style=social)](https://github.com/choril/resgenie/stargazers)
 [![GitHub Forks](https://img.shields.io/github/forks/choril/resgenie?style=social)](https://github.com/choril/resgenie/network/members)
-[![GitHub Contributors](https://img.shields.io/github/contributors/choril/resgenie)](https://github.com/choril/resgenie/graphs/contributors)
 [![GitHub Last Commit](https://img.shields.io/github/last-commit/choril/resgenie)](https://github.com/choril/resgenie/commits/main)
 [![GitHub Repo Size](https://img.shields.io/github/repo-size/choril/resgenie)](https://github.com/choril/resgenie)
 [![Technical Report](https://img.shields.io/badge/Report-%E6%8A%A5%E5%91%8A-orange%3Flogo%3Dreadthedocs?logo=readthedocs&color=orange)](https://choril.github.io/ResGenie/)
