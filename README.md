@@ -18,6 +18,7 @@
 [🚀 快速开始](#section-quickstart) | [✨ 功能特性](#section-features) | [🏗️ 架构设计](#section-architecture) | [📦 安装部署](#section-installation)  | [🤝 贡献指南](#section-contributing)
 
 ![ResGenie架构图](https://via.placeholder.com/800x400.png/3B82F6/FFFFFF?text=ResGenie+Architecture+Diagram)
+
 *项目架构示意图*
 
 </div>
