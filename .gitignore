@@ -61,6 +61,9 @@ local_settings.py
 db.sqlite3
 db.sqlite3-journal
 
+# ResGenie logs
+logs/
+
 # Flask stuff:
 instance/
 .webassets-cache
@@ -207,7 +210,7 @@ marimo/_lsp/
 __marimo__/
 
 # model
-models/
+# models/   数据库的数据模型文件需要上传版本控制
 *.bin
 *.pt
 *.pth
@@ -217,6 +220,10 @@ models/
 docs/HAVEDO.md
 docs/GitCommitCriterion.md
 docs/TODO.md
+docs/index.txt
+docs/logging_usage_guide.md
+docs/database_usage_guide.md
 
-# test
-local_test/
+# local_debug
+local_debug/
+test_logging.py
