@@ -210,7 +210,7 @@ marimo/_lsp/
 __marimo__/
 
 # model
-# models/   数据库的数据模型文件需要上传版本控制
+# models/   本项目的PostgreSQL数据库数据模型文件需要上传版本控制
 *.bin
 *.pt
 *.pth
@@ -223,6 +223,8 @@ docs/TODO.md
 docs/index.txt
 docs/logging_usage_guide.md
 docs/database_usage_guide.md
+docs/PROJECT_ANALYSIS.md
+docs/BASE_AGENT_GUIDE.md
 
 # local_debug
 local_debug/
